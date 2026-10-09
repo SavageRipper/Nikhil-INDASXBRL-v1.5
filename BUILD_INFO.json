@@ -1,0 +1,9 @@
+{
+  "file": "indas-xbrl.html",
+  "sha256": "4d38cf83d68fb2ef706cd44383881fea0d447ffe5a139115633c2f541384d9e4",
+  "bytes": 10564625,
+  "authorityHash": "87716457fa77fd008e552fe3a908cea7bd7fea99e97969b272e83ec453d327ba",
+  "buildId": "8feac83c35",
+  "builtWith": "esbuild",
+  "node": "v22.22.0"
+}
